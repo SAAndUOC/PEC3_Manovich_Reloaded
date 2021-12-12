@@ -29,6 +29,8 @@ A raíz de lo anterior, surge este nuevo híbrido: el sticker. Y es que, debido 
 
 Así, pues, esta combinación de medios anteriormente existentes es el reclamo para poder manifestar mejor una forma ya bastante arraigada de expresión. 
 
+![pexels-photo-267350](https://user-images.githubusercontent.com/95775579/145719407-487bdba5-e661-451f-8a15-c57f6de5729d.jpeg)
+
 El sticker surge en Corea del Sur, en una aplicación de mensajería móvil llamada Line, 2011. Dicha App causaría furor debido a este híbrido ya que permitía esa comunicación de forma más personalizada, esa forma de transmitir ideas más clara, con más ritmo, con más «vida»..
 
 Sería unos años más tarde que Facebook adoptaría este nuevo medio y eventualmente Whatsapp.
@@ -40,6 +42,7 @@ Bien podemos decir que este medio rápidamente se convirtió en un elemento impo
 
 ## 2. La *Reactable*
 
+![image_33u3NDASc5Ud](https://user-images.githubusercontent.com/95775579/145720345-abfb4564-e744-4eb8-90f1-345fac03e9ee.jpg)
 
 
 ## Bibliografía y referencias
@@ -51,5 +54,11 @@ Sticker (messaging). Wikipedia. [Consulta en diciembre de 2021] Disponible en ht
 
 Reactable [Consulta diciembre de 2021] Disponible en: https://reactable.com/
 
+Caldana, S.; Bosco, R. *Börj incluye en sus conciertos el Reactable creado por Sergi Jordà*. [Consulta en diciembre de 2021] Disponible en: https://elpais.com/diario/2007/05/17/ciberpais/1179369330_850215.html
+
 ##
 Imagen 1: *Dos Emoji Amarillos En Caja Amarilla*. Disponible en: https://www.pexels.com/es-es/foto/dos-emoji-amarillos-en-caja-amarilla-207983/
+
+Imagen 2: *Fotografía En Primer Plano De Los Iconos De Teléfonos Inteligentes*. Disponible en: https://www.pexels.com/es-es/foto/fotografia-en-primer-plano-de-los-iconos-de-telefonos-inteligentes-267350/
+
+Imagen 3: *Fotografía de dos chicos probando la Reactable*. Disponible en: https://reactable.com/experience/museum-exhibitions/
