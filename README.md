@@ -13,9 +13,9 @@ Grado en Técnicas de Interacción Digital y Multimedia
 
 ## Hibridación
 
-## 1. Los **sticker**: más que un «emoji»
+## 1. Los *sticker*: más que un «emoji»
 
-Como un ejemplo interesante de hibridación de medios bien podríamos hablar de los denominados **stickers**, una fusión entre dos medios bastante conocidos en nuestra sociedad tales como el emoji y la animación (o, por extensión, cualquier medio audiovisual).
+Como un ejemplo interesante de hibridación de medios bien podríamos hablar de los denominados *stickers*, una fusión entre dos medios bastante conocidos en nuestra sociedad tales como el emoji y la animación (o, por extensión, cualquier medio audiovisual).
 
 Por un lado, tenemos al emoji. Se trata de un concepto que surge durante la segunda mitad de la década de los 90’s, proveniente de Japón, y, básicamente, podríamos decir que se trata de un icono o imagen que el ser humano utiliza para representar de forma visual emociones, conceptos, ideas u objetos.
 
@@ -25,7 +25,7 @@ Este método de plasmar como imágenes las ideas para simplificar o incluso codi
 
 Por el otro lado, tenemos la animación o medios audiovisuales. Estos medios poca explicación requieren ya que están tan extendidos que, de hecho, resultaría difícil el normal desarrollo de nuestra sociedad contemporánea sin el uso de la comunicación audiovisual mediante la televisión, streaming, cine…
 
-A raíz de lo anterior, surge este nuevo híbrido: el sticker. Y es que, debido a las nuevas formas de expresión en la sociedad actual, a las necesidades e incluso podría decirse que un poco como reacción a esta actual «cultura del meme», el usuario tiene esa necesidad de expresar con imágenes populares una emoción, una idea, un concepto (tal como en el caso del emoji), pero apelando a las referencias populares, al conocimiento colectivo dentro de una franja poblacional o, en algunos casos, una forma de unicidad por parte del emisor del mensaje.
+A raíz de lo anterior, surge este nuevo híbrido: el *sticker*. Y es que, debido a las nuevas formas de expresión en la sociedad actual, a las necesidades e incluso podría decirse que un poco como reacción a esta actual «cultura del meme», el usuario tiene esa necesidad de expresar con imágenes populares una emoción, una idea, un concepto (tal como en el caso del emoji), pero apelando a las referencias populares, al conocimiento colectivo dentro de una franja poblacional o, en algunos casos, una forma de unicidad por parte del emisor del mensaje.
 
 Así, pues, esta combinación de medios anteriormente existentes es el reclamo para poder manifestar mejor una forma ya bastante arraigada de expresión. 
 
@@ -48,7 +48,17 @@ Este caso, un tanto más complejo que el anterior, depende de una serie de eleme
 
 ![image_33u3NDASc5Ud](https://user-images.githubusercontent.com/95775579/145720345-abfb4564-e744-4eb8-90f1-345fac03e9ee.jpg)
 
+Primeramente, el dispositivo dispone de una serie de cámaras que analizan la distribución espacial, posicional, estructural y orientación de los objetos físicos situados sobre el tablero. Estos objetos, que reaccionan de forma posicional ante los mecanismos lógicos sobre el tablero, que hacen la función de un **sintetizador**.
+
+Su interfaz de usuario mezcla estos elementos creando un feedback con el usuario a través de los elementos visuales en el tablero, los objetos físicos posicionables y móviles y la iluminación, creando una musicalización con todos estos elementos que ha supuesto un hito interesante dentro del campo de la música.
+
+Desde los más novatos, como eventos en que se permite a la gente participar, toqueteando con el aparato de forma colaborativa hasta los más experimentados músicos y Dj’s, tenemos que este instrumento, pese a lo intuitivo y sencillo que puede resultar su curva de aprendizaje, es una herramienta híbrida que ha cautivado miradas.
+
+Y entre tales cautivadas miradas podríamos destacar a Björk, quien en 2007 adoptaría este instrumento para su uso en sus conciertos, dándole ese aspecto más experimental a su música, ese toque distinto y un poco más de su marca personal.
+
 [![Vídeo de la Reactable](http://reactable.com/wp-content/uploads/2015/09/image_ZfhrthR7XEdm.jpg)](https://youtu.be/lA29AE6O69k)
+
+Así, pues, mirando el resultado final de este instrumento podemos ver claramente otro híbrido más que, gracias a la unión de sus partes, logró crear una innovación que, como todo híbrido, abrirá las puertas a nuevos elementos que, en un futuro evolucionarán a algo nuevo ante lo que podamos maravillarnos.
 
 ## Bibliografía y referencias
 Manovich, L. (2013). *El software toma el mando*. Editorial UOC.
