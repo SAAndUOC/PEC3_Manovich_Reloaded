@@ -12,7 +12,7 @@ Reto Actividad 3
 
 ## Hibridación
 
-## 1. Los sticker
+## 1. Los sticker: más que un «emoji»
 
 ## 2. La *Reactable*
 
