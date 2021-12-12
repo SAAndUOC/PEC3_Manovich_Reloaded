@@ -12,9 +12,9 @@ Reto Actividad 3
 
 ## Hibridación
 
-## Caso Los sticker
+## 1. Los sticker
 
-## La *Reactable*
+## 2. La *Reactable*
 
 
 
