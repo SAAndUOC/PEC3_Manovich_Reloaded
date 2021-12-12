@@ -19,6 +19,8 @@ Como un ejemplo interesante de hibridación de medios bien podríamos hablar de 
 
 Por un lado, tenemos al emoji. Se trata de un concepto que surge durante la segunda mitad de la década de los 90’s, proveniente de Japón, y, básicamente, podríamos decir que se trata de un icono o imagen que el ser humano utiliza para representar de forma visual emociones, conceptos, ideas u objetos.
 
+![pexels-photo-207983](https://user-images.githubusercontent.com/95775579/145719321-02d9fb83-85ca-416c-be37-69b39f00eb0b.jpeg)
+
 Este método de plasmar como imágenes las ideas para simplificar o incluso codificar mensajes en las comunicaciones interpersonales se ha propagado de forma tal que, hoy en día, es difícil que en las sociedades desarrolladas se desconozca su universal uso ya que podemos encontrarlo en todos los medios de comunicación más utilizados, desde los tradicionales emails, redes sociales y hasta las Apps de mensajería. Su uso no pasa desapercibido.
 
 Por el otro lado, tenemos la animación o medios audiovisuales. Estos medios poca explicación requieren ya que están tan extendidos que, de hecho, resultaría difícil el normal desarrollo de nuestra sociedad contemporánea sin el uso de la comunicación audiovisual mediante la televisión, streaming, cine…
@@ -48,3 +50,6 @@ emoji. Diccionario de la lengua española [Consulta en diciembre de 2021] Dispon
 Sticker (messaging). Wikipedia. [Consulta en diciembre de 2021] Disponible en https://en.wikipedia.org/wiki/Sticker_(messaging)
 
 Reactable [Consulta diciembre de 2021] Disponible en: https://reactable.com/
+
+##
+Imagen 1: *Dos Emoji Amarillos En Caja Amarilla*. Disponible en: https://www.pexels.com/es-es/foto/dos-emoji-amarillos-en-caja-amarilla-207983/
