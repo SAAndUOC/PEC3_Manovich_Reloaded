@@ -1,10 +1,10 @@
 # Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación.
 
 **<font size="5">Universitat Oberta de Catalunya</font>**
-<font size="3">Grado en Técnicas de Interacción Digital y Multimedia</font>
-**Cultura Digital** - 
 
-Reto Actividad 3
+<font size="2">Grado en Técnicas de Interacción Digital y Multimedia</font>
+
+**Cultura Digital** - Reto Actividad 3
 
 **Autor:** Antonio Andrade
 
@@ -20,9 +20,14 @@ Reto Actividad 3
 
 
 ## <font size="4"> Bibliografía y referencias </font>
-<font size="3">
-Manovich, L. (2013). *El software toma el mando*. Editorial UOC.
+<font size="3"> Manovich, L. (2013). *El software toma el mando*. Editorial UOC.</font>
 
-Reactable [Consulta diciembre de 2021] Disponible en: https://reactable.com/
+<font size="3"> emoji. Diccionario de la lengua española [Consulta en diciembre de 2021] Disponible en: https://dle.rae.es/emoji</font>
 
-</font>
+<font size="3"></font>
+
+<font size="3"></font>
+
+<font size="3"></font>
+
+<font size="3"> Reactable [Consulta diciembre de 2021] Disponible en: https://reactable.com/</font>
