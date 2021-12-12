@@ -13,6 +13,12 @@ Grado en Técnicas de Interacción Digital y Multimedia
 
 ## Hibridación
 
+Podría decirse que la hibridación de medios surge como una fase más de la evolución del ordenador como «metamedio», tal como indica Manovich, en torno al tramo final de la década de los 70’s.
+
+Este concepto surge ante la necesidad del ser humano, en su creatividad y necesidad de cambio, de combinar los medios ya existentes e innovar, convirtiéndolos, cuan símil de la evolución biológica en «(…) nuevos organismos, nuevas especies y nuevos componentes fundacionales (…)».
+
+Dicho esto, bien podríamos ver un par de ejemplos.
+
 ## 1. Los *sticker*: más que un «emoji»
 
 Como un ejemplo interesante de hibridación de medios bien podríamos hablar de los denominados *stickers*, una fusión entre dos medios bastante conocidos en nuestra sociedad tales como el emoji y la animación (o, por extensión, cualquier medio audiovisual).
