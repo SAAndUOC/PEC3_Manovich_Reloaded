@@ -1,3 +1,27 @@
-# PEC3_Manovich_Reloaded
-Prueba de evaluación 3 - UOC - Cultura Digital
+# Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación.
 
+**<font size="5">Universitat Oberta de Catalunya</font>**
+<font size="3">Grado en Técnicas de Interacción Digital y Multimedia</font>
+**Cultura Digital** - 
+
+Reto Actividad 3
+
+**Autor:** Antonio Andrade
+*Diciembre de 2021*
+
+
+## Hibridación
+
+## Caso Los sticker
+
+## La *Reactable*
+
+
+
+## <font size="4"> Bibliografía y referencias </font>
+<font size="3">
+Manovich, L. (2013). *El software toma el mando*. Editorial UOC.
+
+Reactable [Consulta diciembre de 2021] Disponible en: https://reactable.com/
+
+</font>
