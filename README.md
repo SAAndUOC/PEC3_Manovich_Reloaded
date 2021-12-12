@@ -13,9 +13,9 @@ Grado en Técnicas de Interacción Digital y Multimedia
 
 ## Hibridación
 
-## 1. Los sticker: más que un «emoji»
+## 1. Los **sticker**: más que un «emoji»
 
-Como un ejemplo interesante de hibridación de medios bien podríamos hablar de los denominados stickers, una fusión entre dos medios bastante conocidos en nuestra sociedad tales como el emoji y la animación (o, por extensión, cualquier medio audiovisual).
+Como un ejemplo interesante de hibridación de medios bien podríamos hablar de los denominados **stickers**, una fusión entre dos medios bastante conocidos en nuestra sociedad tales como el emoji y la animación (o, por extensión, cualquier medio audiovisual).
 
 Por un lado, tenemos al emoji. Se trata de un concepto que surge durante la segunda mitad de la década de los 90’s, proveniente de Japón, y, básicamente, podríamos decir que se trata de un icono o imagen que el ser humano utiliza para representar de forma visual emociones, conceptos, ideas u objetos.
 
@@ -31,7 +31,7 @@ Así, pues, esta combinación de medios anteriormente existentes es el reclamo p
 
 ![pexels-photo-267350](https://user-images.githubusercontent.com/95775579/145719407-487bdba5-e661-451f-8a15-c57f6de5729d.jpeg)
 
-El sticker surge en Corea del Sur, en una aplicación de mensajería móvil llamada Line, 2011. Dicha App causaría furor debido a este híbrido ya que permitía esa comunicación de forma más personalizada, esa forma de transmitir ideas más clara, con más ritmo, con más «vida»..
+El sticker surge en Corea del Sur, en una aplicación de mensajería móvil llamada **Line**, 2011. Dicha App causaría furor debido a este híbrido ya que permitía esa comunicación de forma más personalizada, esa forma de transmitir ideas más clara, con más ritmo, con más «vida»..
 
 Sería unos años más tarde que Facebook adoptaría este nuevo medio y eventualmente Whatsapp.
 
@@ -42,8 +42,13 @@ Bien podemos decir que este medio rápidamente se convirtió en un elemento impo
 
 ## 2. La *Reactable*
 
+Como segundo caso tendríamos la Reactable, desarrollada en la Universidad Pompeu Fabra por el equipo de investigación formado por Sergi Jordà, Günter Geiger, Martin Kaltenbrunner y Marcos Alonso. Es un instrumento musical que combina una interfaz tangible con objetos reales colocados sobre una superficie táctil reactiva a las interacciones con el usuario.
+
+Este caso, un tanto más complejo que el anterior, depende de una serie de elementos que muestran claramente esta fusión de elementos que hibridaron en este nuevo medio. Para entenderlo, será necesario explicar, a grandes rasgos, los elementos que la conforman.
+
 ![image_33u3NDASc5Ud](https://user-images.githubusercontent.com/95775579/145720345-abfb4564-e744-4eb8-90f1-345fac03e9ee.jpg)
 
+[![Vídeo de la Reactable](http://reactable.com/wp-content/uploads/2015/09/image_ZfhrthR7XEdm.jpg)](https://youtu.be/lA29AE6O69k)
 
 ## Bibliografía y referencias
 Manovich, L. (2013). *El software toma el mando*. Editorial UOC.
